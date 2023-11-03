@@ -1,2 +1,2 @@
 # calculator1
-A calculator website that can perform a arithmetic operations.
+The Calculator Website project is a web application built using HTML, CSS & JavaScript. This project aims to provide users with a simple and efficient calculator tool that can perform math operation.
